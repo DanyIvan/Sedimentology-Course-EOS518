@@ -135,6 +135,11 @@ Pipfile.lock
 
 #Folders
 readings/
+lectures/
+parasequence_data/
+files/
 
 #Kite
 *.swp
+*.zip
+*.svg
